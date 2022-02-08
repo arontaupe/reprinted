@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Aron, currently studying Cognitive Science in Germany.
+I dream of having me own bar one day and am working on the perfect recipe for homebrew beer.
+I am also passionate about 3D Printing and all of its curious applications.
+I am thoroughly frustrated that I have to pay for the plastic I use for printing while I throw the packaging of my food away, being the exact same thing.
+Plastic waste is no joke, we know that by now and I consider it my personal contribution to the cause to help advance small scale, decentralized recycling.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Since I don’t want the hassle of maintaining multiple pages for different things, I misuse the page for other topics too. So be prepared to find updates about all kinds of my latest endeavours.
+Happy rummaging!
