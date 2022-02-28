@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+author: "Aron Petau"
 ---
 
 I am Aron, currently studying Cognitive Science in Germany.

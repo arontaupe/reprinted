@@ -2,6 +2,7 @@
 layout: page
 title: Privacy
 permalink: /privacy/
+author: "Aron Petau"
 ---
 
 I do not collect any data.
