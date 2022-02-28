@@ -1,1 +1,15 @@
 theme: jekyll-theme-cayman
+timezone: Europe/Berlin
+incremental: TRUE
+
+email: aron@petau.net
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to the home of reprinted, the place for all updates around my filament
+  recycling project and distantly related things happening around me.
+  Take a look around!
+
+twitter_username: share0n
+github_username:  arontaupe
+
+plugins:
+  - jekyll-feed
