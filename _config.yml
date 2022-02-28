@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: zerostaticthemes/jekyll-serif-theme
 timezone: Europe/Berlin
 incremental: TRUE
 
@@ -8,8 +8,38 @@ description: >- # this means to ignore newlines until "baseurl:"
   recycling project and distantly related things happening around me.
   Take a look around!
 
-twitter_username: share0n
-github_username:  arontaupe
+twitter:
+  username: share0n
+
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+
+social: # jekyll-seo-tag > social overrides
+  name: Aron Petau # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/DavidDarnes
+    - https://www.facebook.com/daviddarnes
+    - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/daviddarnes
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
