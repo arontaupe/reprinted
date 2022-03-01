@@ -39,3 +39,5 @@ navigation_header:
   url: /categories/
 - title: About
   url: /about/
+- title: Privacy
+  url: /privacy/
