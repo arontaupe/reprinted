@@ -8,8 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   recycling project and distantly related things happening around me.
   Take a look around!
 
-twitter:
-  username: share0n
+baseurl: "/reprinted/"
 
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
@@ -24,10 +23,9 @@ plugins:
 social: # jekyll-seo-tag > social overrides
   name: Aron Petau # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/share0n
+    - https://www.linkedin.com/in/aronpetau
+    - https://github.com/arontaupe
 
 # 9. Site navigation
 navigation_header:
